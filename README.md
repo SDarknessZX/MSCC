@@ -2,7 +2,7 @@
 Zhongxin Dou  
 crowd counting
 <p align="center">
-  <img src="https://github.com/SDarknessZX/MSCC/blob/main/figs/all.jpg" alt="FIrst" width='1300px' height='400px'/>
+  <img src="https://github.com/SDarknessZX/MSCC/blob/main/figs/all.jpg" alt="FIrst" width='1300px' height='350px'/>
 </p>
 
 # Model
