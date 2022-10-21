@@ -4,8 +4,12 @@ crowd counting
 # Model
 ## 1.Network
 ## 2.Checkpoint
-## 3.Trian
-## 4.Test
+## 3.Dataset
+UCF_CC_50:https://www.crcv.ucf.edu/data/ucf-cc-50/
+Sha & Shb:You can find them on Kaggle.
+QNRF:https://www.crcv.ucf.edu/data/ucf-qnrf/
+## 4.Trian
+## 5.Test
 # result
 Result on Sha、Shb、UCF_CC_50:
 <p align="center">
