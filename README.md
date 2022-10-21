@@ -1,6 +1,9 @@
 # MSCC:Multi-scale Crowd Counting based on Transformer and CNN
 Zhongxin Dou  
 crowd counting
+<p align="center">
+  <img src="https://github.com/SDarknessZX/MSCC/blob/main/figs/all.png" alt="FIrst" width='650px' height='500px'/>
+</p>
 # Model
 ## 1.Network
 ## 2.Checkpoint
